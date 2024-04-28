@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-str = "Holberton School"
-y=str.split()
-print(str + str +str )
-print(y[0])
+str = "Holberton Schoo"
+print(3*str)
+print(str[:9])
